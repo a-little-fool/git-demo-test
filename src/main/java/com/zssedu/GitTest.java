@@ -1,0 +1,11 @@
+package com.zssedu;
+
+/**
+ * @author 周书胜
+ * @date 2023年03月10 8:16
+ */
+public class GitTest {
+    public static void main(String[] args) {
+        System.out.println("master first commit");
+    }
+}
